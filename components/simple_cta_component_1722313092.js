@@ -1,8 +1,8 @@
-/* Summary: This component contains a h2 heading title for the CTA, a line of text under it, and a button underneath it. They are all centre aligned.
+/* Summary: This component contains a h2 heading title for the CTA, a line of text under it, and a button underneath it. They are all centre aligneds.
 */
 Vue.component("simple_cta_component_1722313092", {
     template: `
-    <section id="cta-component" style="min-height: 310px"   class="bg-gray-50 dark:bg-gray-800 flex-1">
+    <section id="cta-component" class="bg-gray-50 dark:bg-gray-800 flex-1">
         <div id="cta-inner-container" class="max-w-screen-xl px-4 py-8 mx-auto lg:py-16 lg:px-6">
             <div id="cta-content" class="max-w-screen-sm mx-auto text-center">
                 <div id="cta-title-container" class="flex">
@@ -10,7 +10,33 @@ Vue.component("simple_cta_component_1722313092", {
                 </div>
 
                 <div id="cta-subtitle-container" class="flex">
-                    <p id="cta-subtitle" class="flex-1 mb-6 font-light text-gray-500 dark:text-gray-400 md:text-lg">Discover recipes, plan meals, and cook with confidence using our intuitive app.</p>
+                    <p id="cta-subtitle" class="flex-1 mb-6 font-light text-gray-500 dark:text-gray-400 md:text-lg">Discover recipes, plan meals, and cook with confidence using our intuitive app. 
+                     </p>
+                   <p>this should be done</p>  
+                   <p>this Can't be done</p> 
+<p>donesgfuf12</p>
+<p>Great</p>
+<p>With</p>
+<p>why this is Done</p>
+<p>Free</p>
+<p>None</p>
+<p>Game Over</p>
+<p>lets</p>
+<p>God</p>
+<p>back</p>
+<p>hnn</p>
+<p>uiElements</p>
+<p>ui</p>
+<p>Logs</p>
+<p>lagers</p>
+<p>lagers</p>
+<p>lagers</p>
+<p>lagers</p>
+<p>lagers</p>
+<p>lagers</p>
+<p>lagers</p>
+<p>lagers12</p>
+<p>lg2112111111111111111</p>
                 </div>
                 
                 <div id="cta-button-container" class="flex">
@@ -27,3 +53,4 @@ Vue.component("simple_cta_component_1722313092", {
         };
     },
 });
+f
