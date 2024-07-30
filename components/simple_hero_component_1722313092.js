@@ -1,4 +1,4 @@
-/* Summary: The hero component contains the following two parts:
+/* Summary: The hero component contains the following two partss:
 - To the left: There is a hero title text in h1 heading. Underneath it, a hero subtitle line of text. All this text is left-aligned. Underneath this, there are two white buttons in the same line, both justified in alignment.
 - To the right: There is an image relevant to the app.
 */
